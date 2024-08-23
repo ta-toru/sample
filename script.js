@@ -1,9 +1,9 @@
 // 画像ファイルのURLリスト
 const imageList = [
-    'https://dl.dropboxusercontent.com/scl/fi/0z19e3ffsu52wz2sz63r4/image1.png?rlkey=981fey5qj60eax2lqww7yh96t&st=fp0z52z9&',
-    'https://dl.dropboxusercontent.com/scl/fi/hfowrebockhcpa82i7k2l/image2.png?rlkey=8q0g4g7r5qglzpoe4e2nt4ztg&st=y36c5l4c&',
-    'https://dl.dropboxusercontent.com/scl/fi/t3u3hp0l9a301oqt0ckf4/image3.png?rlkey=ftkagdb31jti8pqzjib991urp&st=4oey0fda&',
-    'https://dl.dropboxusercontent.com/scl/fi/dvvlw1q7feqanh15w85yp/image4.png?rlkey=hlu0fnr4ckhijrlypft7u1hf7&st=manf9sar&'
+    'images/image1.png',
+    'images/image2.png',
+    'images/image3.png',
+    'images/image4.png',
 ];
 
 let currentImageIndex = 0; // 初期状態で最初の画像を表示する
